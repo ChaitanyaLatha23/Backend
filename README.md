@@ -1,3 +1,3 @@
 Before running python script Run this commands 
-pip install fastapi
-pip install requests
+1)pip install fastapi
+2)pip install requests
